@@ -5,6 +5,7 @@ import Register from "./Register";
 import Reset from "./Reset";
 import Dashboard from "./Dashboard";
 
+//addded comments
 function App() {
   return (
     <div className="app">
